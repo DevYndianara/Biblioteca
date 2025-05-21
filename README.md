@@ -1,5 +1,5 @@
 # Library in hands
-[![NPM](https://img.shields.io/badge/npm/1/react)](https://github.com/DevYndianara/Biblioteca/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/1/react)](https://github.com/DevYndianara/Biblioteca/blob/main/LICENSE)
 ## Sobre o projeto
 
 ### Este projeto foi desenvolvido como trabalho da disciplina Programas para dispositivos móveis, do curso de Análise e desenvolvimento de sistemas, 5º período. 

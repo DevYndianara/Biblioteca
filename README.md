@@ -1,6 +1,6 @@
 # Library in hands
 
-https://github.com/DevYndianara/Biblioteca/blob/main/LICENSE
+[![NPM](https://img.shields.io/badge/license--mit)](https://github.com/DevYndianara/Biblioteca/blob/main/LICENSE)
 
 ## Sobre o projeto
 

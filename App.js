@@ -72,7 +72,7 @@ export default function App() {
                   iconName = 'bug-sharp';
                   break;
                 default:
-                  iconName = 'lipsis-horizontal-outline';
+                  iconName = 'ellipsis-horizontal-outline';
               }
               return <Ionicons name={iconName} size={30} color={'#990099'} />;
             },

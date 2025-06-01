@@ -11,12 +11,12 @@ import { initializeFirestore } from "firebase/firestore/lite";
 
 // Configuração do Firebase 
 const firebaseConfig = {
-  apiKey: "AIzaSyCUQ3XgUgBa-cihwAdKrJSm0aMg11g9wdg",
-  authDomain: "libnara-6167b.firebaseapp.com",
-  projectId: "libnara-6167b",
-  storageBucket: "libnara-6167b.firebasestorage.app",
-  messagingSenderId: "240452204101",
-  appId: "1:240452204101:web:5ee740f41219aa206dd52c"
+  apiKey: "XXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXXX-0000b.firebaseapp.com",
+  projectId: "XXXXX-0000b",
+  storageBucket: "XXXXX-0000b.firebasestorage.app",
+  messagingSenderId: "123412341234",
+  appId: "1:123412341234:web:XXXXXXXXXXXXXXXXXXX"
 };
 
 // Inicializar o Firebase 
